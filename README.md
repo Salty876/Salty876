@@ -1,5 +1,7 @@
 # Hi there, I'm Salty 👋
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 ## On the grind to fullstack development mastery‼️
 
 - 🔭 I’m currently working on ...
