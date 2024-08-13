@@ -9,5 +9,5 @@
 - 💬 Ask me about anything
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=js,py,react,lua,nextjs,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,react,lua,nextjs,svelte,SQL)](https://skillicons.dev)
 
