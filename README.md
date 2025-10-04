@@ -1,4 +1,4 @@
-# Hi there, I'm Salty 👋
+# Hi there, I'm Saleh! 👋
 
 <!--START_SECTION:waka--><!--END_SECTION:waka-->
 
